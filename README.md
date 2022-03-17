@@ -1,16 +1,22 @@
-### Hi there 👋
+<h1 align="center"> Hello 💾</h1>
 
-<!--
-**Thats-Neat/Thats-Neat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">  Young Programmer | Aspiring Software Engineer </h3>
 
-Here are some ideas to get you started:
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### 🤔 About
+-  **Schooling :**  Junior Year Highschool Student 📓 
+-  **Learning :** Python 🐍 | React ⚛️	
+-  **Hobbies :** Gardening 🌱 | Music :headphones:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### ✨ Visitors 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Thats-Neat" alt="Thats-Neat" /> </p>
+
+### 📊 Profile stats
+
+[![Thats-Neat's github stats](https://github-readme-stats.vercel.app/api?username=Thats-Neat&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/Thats-Neat/github-readme-stats)
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+⭐️ From [Thats-Neat](https://github.com/Thats-Neat)
