@@ -10,7 +10,7 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### 🤔 About
--  **Schooling :**  Studying CS in University
+-  **Schooling :**  Current College Student
 -  **Learning :** Python 🐍 • React ⚛️
 -  **Hobbies :** Music :headphones: • Space 🔭
 
