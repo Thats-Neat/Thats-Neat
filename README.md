@@ -10,7 +10,7 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### 🤔 About
--  **Schooling :**  Current College Student
+-  **Schooling :**  Current Oregon State College Student
 -  **Learning :** Python 🐍 • React ⚛️
 -  **Hobbies :** Music :headphones: • Space 🔭
 
